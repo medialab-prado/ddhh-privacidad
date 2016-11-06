@@ -1,5 +1,4 @@
 Variable,Pregunta,Respuestas,ValorInterno,Valor,Open?
-ID,,,,,
 ACCESO,"¿Desde cuándo es Vd. usuario de Internet? (cualquier uso: WWW, E-mail, FTP, chat, etc.)",,-,NS/NC,
 ACCESO,"¿Desde cuándo es Vd. usuario de Internet? (cualquier uso: WWW, E-mail, FTP, chat, etc.)",,0,NS/NC,
 ACCESO,"¿Desde cuándo es Vd. usuario de Internet? (cualquier uso: WWW, E-mail, FTP, chat, etc.)",,1,Menos de 1 año,
