@@ -4,63 +4,146 @@
 @import 'libs/skel';
 
 /*
-	Photon by HTML5 UP
+	Future Imperfect by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Header */
+/* List */
 
-	#header {
-		$from: _palette(accent3-alt);
-		$to: _palette(accent6-alt);
+	ul {
+		&.posts {
+			article {
+				&:after {
+					clear: both;
+					content: '';
+					display: block;
+				}
 
-		background-image: none;
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
-		position: relative;
+				.image {
+					display: table-cell;
+					vertical-align: top;
+				}
 
-		&:before {
-			background-image:		url('images/overlay2.png'),		url('images/overlay3.svg');
-			background-position:	top left,							center center;
-			background-size:		auto,								cover;
-			content: '';
-			height: 100%;
-			left: 0;
-			position: absolute;
-			top: 0;
-			width: 100%;
-		}
-
-		> * {
-			position: relative;
-			z-index: 1;
+				header {
+					display: table-cell;
+					padding-right: 1em;
+					vertical-align: top;
+				}
+			}
 		}
 	}
 
-/* Footer */
+/* Author */
 
-	#footer {
-		$from: _palette(accent6-alt);
-		$to: _palette(accent3-alt);
+	.author {
+		.name {
+			display: inline-block;
+			vertical-align: middle;
+		}
 
-		background-image: none;
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
-		position: relative;
+		img {
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
 
-		&:before {
-			background-image:		url('images/overlay2.png'),		url('images/overlay4.svg');
-			background-position:	top left,							center center;
-			background-size:		auto,								cover;
+/* Post */
+
+	.post {
+		&:after {
+			clear: both;
 			content: '';
-			height: 100%;
-			left: 0;
-			position: absolute;
-			top: 0;
-			width: 100%;
+			display: block;
 		}
 
-		> * {
-			position: relative;
-			z-index: 1;
+		> header {
+			&:after {
+				clear: both;
+				content: '';
+				display: block;
+			}
+
+			.title {
+				display: table-cell;
+				vertical-align: top;
+				width: 65%;
+			}
+
+			.meta {
+				display: table-cell;
+				vertical-align: top;
+				width: 30%;
+			}
 		}
+
+		> footer {
+			&:after {
+				clear: both;
+				content: '';
+				display: block;
+			}
+
+			.actions {
+				display: inline-block;
+			}
+
+			.stats {
+				display: inline-block;
+				margin-left: 2em;
+			}
+		}
+	}
+
+/* Mini Post */
+
+	.mini-post {
+		.image {
+			display: block;
+		}
+	}
+
+/* Header */
+
+	#header {
+		&:after {
+			clear: both;
+			content: '';
+			display: block;
+		}
+
+		h1 {
+			float: left;
+		}
+
+		.links {
+			float: left;
+		}
+
+		.main {
+			position: absolute;
+			right: 0;
+			top: 0;
+		}
+	}
+
+/* Wrapper */
+
+	#wrapper {
+	}
+
+/* Sidebar */
+
+	#sidebar {
+		display: table-cell;
+		margin-right: 0;
+		padding-right: _size(section-spacing);
+		vertical-align: top;
+	}
+
+/* Main */
+
+	#main {
+		display: table-cell;
+		vertical-align: top;
 	}
