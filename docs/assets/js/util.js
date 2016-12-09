@@ -596,6 +596,11 @@ function fbShareCurrentPage()
     'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
      return false; }
 
+function LinShareCurrentPage()
+    {window.open(" http://www.linkedin.com/shareArticle?mini=true&url="+escape(window.location.href)+"&title="+document.title, '', 
+    'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=600');
+     return false; }
+
 function emailCurrentPage(){
             window.location.href="mailto:?subject="+document.title+"&body="+escape(window.location.href);
         }
