@@ -18,6 +18,10 @@
 		vertical-align: baseline;
 	}
 
+small {
+font-size: 70%;
+}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
