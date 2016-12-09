@@ -1,8 +1,17 @@
 Aqui ponemos los datos que vamos a utilizar en el proyecto:
-
-1. ANUARIO 2015 CRIMINALIDAD Y SEGURIDAD CIUDADANA.xlsx - del Ministerio de Interior, tiene algunos datos sobre ciberdelitos
-2. Memoria_AEPD_2015.pdf - Informe de la Agencia de Protección de Datos
-3. macro15(txt).zip - Los datos originales de la encuesta Navegantes en la Red para el último trimestre de 2015
-4. descripci¢n15(txt).xlsx - La descripción de las preguntas y variables utilizadas en Navegantes en la Red
-5. macro15_1.csv - Un archivo de todas las respuestas de Navegantes en la Red que se puede abrir en cualquier hoja de cálculo
-6. Informe cibercriminalidad- Es del Ministerio del Interior. Amplia levemente la información del Anuario estadístico pero la información sigue siendo vaga e imprecisa. 
+1.	ANUARIO 2015 CRIMINALIDAD Y SEGURIDAD CIUDADANA.xlsx - del Ministerio de Interior, tiene algunos datos sobre ciberdelitos
+2.	Datos ministerio del interior def.xlsx Elaboración propia a partir de datos del Ministerio de Interior 
+3.	Memoria_AEPD_2015.pdf - Informe de la Agencia de Protección de Datos
+4.	Datos Agencia proteccion datos def.xlsx Elaboración propia a partir de datos de la AEPD
+5.	Navegantes en la red def.xlsx. Gráficos de elaboración propia a partir de datos de Navegantes en la red
+6.	macro15(txt).zip - Los datos originales de la encuesta Navegantes en la Red para el último trimestre de 2015
+7.	descripción15(txt).xlsx - La descripción de las preguntas y variables utilizadas en Navegantes en la Red
+8.	macro15_1.csv - Un archivo de todas las respuestas de Navegantes en la Red que se puede abrir en cualquier hoja de cálculo
+9.	macro2014_cuest.pdf . Transcripción del cuestionario de la 17ª encuesta AIMC a usuarios de internet- Navegantes en la red. Oct-Dic 2014
+10.	Informe cibercriminalidad- Es del Ministerio del Interior. Amplía levemente la información del Anuario estadístico pero la información sigue siendo vaga e imprecisa. 
+11.	Memoria 2015.pdf. Consejo de consumidores y usuarios. Recoge datos de la actividad del consejo de defensa de los derechos de los consumidores. 
+12.	Memoria 2014.pdf. Consejo de consumidores y usuarios. Recoge datos de la actividad del consejo de defensa de los derechos de los consumidores. 
+13.	Memoria 2013.pdf. Consejo de consumidores y usuarios. Recoge datos de la actividad del consejo de defensa de los derechos de los consumidores. 
+14.	Memoria 2012.pdf. Consejo de consumidores y usuarios. Recoge datos de la actividad del consejo de defensa de los derechos de los consumidores. 
+15.	¿Qué sabes de privacidad_-2.xlsx ¿Qué sabes de privacidad_-2.xlsx- Volcado en Excel de los datos de la encuesta realizada
+16.	Cibercriminalidad social juvenil.pdf. Articulo de Irene Montiel Juan publicado en Revista de internet, derecho y política, nº 22, Junio 2016
