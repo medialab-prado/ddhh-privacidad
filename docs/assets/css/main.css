@@ -3277,7 +3277,7 @@ font-size: 70%;
 		display: inline-block;
 		margin: 0 0 1em 0;
 		overflow: hidden;
-		position: relative;
+		/*position: relative;*/
 		width: 4em;
 	}
 
