@@ -26,7 +26,7 @@ font-size: 70%;
 		display: block;
 	}
 
-  article {
+  article p {
     text-align: justify;
     text-justify: inter-word;
   }
@@ -2139,7 +2139,7 @@ font-size: 70%;
 		.image.featured {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			width: 80%;
 		}
 
 			.image.featured img {
@@ -3277,7 +3277,7 @@ font-size: 70%;
 		display: inline-block;
 		margin: 0 0 1em 0;
 		overflow: hidden;
-		position: relative;
+		/*position: relative;*/
 		width: 4em;
 	}
 
