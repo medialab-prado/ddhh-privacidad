@@ -20,3 +20,4 @@ Aqui ponemos los datos que vamos a utilizar en el proyecto:
 19. Acquisti, Alessandro, Ross, Ralph, Stutzman, Fred. Faces of Facebook: Privacy in the age of augmented reality. Presentación del economista experto en privacidad sobre el reconocimiento facial en Facebook. Lo hemos usado para ilustrar el apartado CONSUMO Y RESPONSABILIDAD.
 20. Brandeis and Brandeis, The right to privacy.1890. Ensayo fundacional sobre el concepto de privacidad como derecho. Hacemos referencia a él en el GLOSARIO y en la ENTREVISTA DEL EXPERTO. 
 21. Infografías de la encuesta sobre vigilancia masiva realizada por Amnistía Internacional. Hemos ilustrado el articulo CONSUMO Y RESPONSABILIDAD con algún dato de este informe. 
+Lyon, David. Surveillance, Snowden, and Big Data: Capacities, consequences, critique. Paper sobre vigilancia que usamos para documentar el GLOSARIO. 
